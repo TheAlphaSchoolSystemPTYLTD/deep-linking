@@ -1,6 +1,6 @@
-**tours.excursions**
+**tours.attachment**
 ----
-  Redirects to the target program Make a Payment > Tours and Excursions after a successful user login.
+  Redirects to the target program for downloading the file attachment of the tour after a successful user login.
 
 * **Version:**
 
@@ -25,7 +25,7 @@
 * **Sample Parameters:**
 
 	```HTML
-	"target":"tours.tour"
+	"target":"tours.attachment"
 	"studcode":"0009130"
 	"tour_num":"320"
 	```
@@ -33,5 +33,5 @@
 * **Deep Link**
 
 	```HTML
-	http://domain.com/parentlounge/login.cfm?go={"target":"tours.tour","studcode":"0009130","tour_num":"320","prod_menu":"Y"}
+	http://domain.com/parentlounge/login.cfm?go={"target":"tours.attachment","studcode":"0009130","tour_num":"320","prod_menu":"N"}
 	```

@@ -35,6 +35,24 @@ It must be a valid JSON packet.
 Both the name and value in the JSON parameter pair should be encapsulated in double quotes.
 
 
+**Disabling the Product Menu**
+
+To assist in embedding the target program of a Deep Link inside another product, you have the option of disabling that products menu by supplying the below parameter
+
+	"prod_menu":"N"
+
+
+**Logging Out**
+
+When generating a Deep Link without the TASS or Portal menu structure (`"prod_menu":"N"`), you will be responsible for providing a logout mechinisim for your users.
+
+A logout can be initiated by redirecting a user to the logout URL. E.g.: 
+
+ * Parent Lounge: https://domain.com/parentlounge/index.cfm?do=parentportal.user.logout
+ * Student Cafe: https://domain.com/studentcafe/index.cfm?do=studentportal.user.logout
+ * TASS.web: https://domain.com/tassweb/logout.cfm
+ * Kiosk: https://domain.com/kiosk/index.cfm?do=kiosk.user.logout
+
 **Errors**
 
 Any error encountered during the Deep Link redirect attempt will send the user to the Product Home screen. A corresponding entry with error details will be found the TASS.web exception log.

@@ -1,5 +1,10 @@
 # Deep Linking
 
+```
+	NB: The SSO and Deep Linking API's do not form part of the general TASS API framework.
+	As such, they do not rquire the Encrypted Tokenisation outlined in the API Introduction
+```
+
 **Examples**
 
   Kiosk 

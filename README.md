@@ -10,6 +10,7 @@
   Kiosk 
   * Student Profile
   * Teacher Rollcall
+  * Teacher Substitution
   
   Parent Lounge
   * Curricular Activities

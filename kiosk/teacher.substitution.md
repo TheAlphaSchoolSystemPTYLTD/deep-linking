@@ -2,6 +2,10 @@
 ----
   Redirects to the target program Teacher > Teacher Substitution after a successful user login.
 
+  * **Version History:**
+
+     TASS v49.4 - Method Added
+
 * **Version:**
 
   	`1`

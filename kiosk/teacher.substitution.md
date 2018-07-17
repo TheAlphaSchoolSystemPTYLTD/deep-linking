@@ -8,7 +8,7 @@
 
 * **Version:**
 
-  	`1`
+  	`2`
 
 * **Permission Required:**
 

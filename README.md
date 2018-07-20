@@ -1,8 +1,8 @@
 # Deep Linking
 
 ```
-	NB: The SSO and Deep Linking API's do not form part of the general TASS API framework.
-	As such, they do not rquire the Encrypted Tokenisation outlined in the API Introduction
+	NB: Deep Linking API does not form part of the general TASS API framework.
+	As such, it does not rquire the Encrypted Tokenisation outlined in the API Introduction
 ```
 
 **Examples**
@@ -22,16 +22,12 @@
   * Purchasing - Purchase Orders
   * Student Profile
 
+
 **What is a Deep Link?**
 
 A Deep Link is a URL parameter that is provided to the login screen to automatically redirect the user to the target page on a successful login.
 
 If the user has a valid active session, they will be redirected to the target page without requiring re-autnntication.
-
-
-**Licence Requirements**
-
-Use of Deep Linking requires a valid TASS licence that includes API02 (Deep Link.) 
 
 
 **Notes for Generating Deep Links**

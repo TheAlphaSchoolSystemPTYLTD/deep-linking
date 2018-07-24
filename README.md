@@ -2,7 +2,7 @@
 
 ```
 	NB: Deep Linking API does not form part of the general TASS API framework.
-	As such, it does not rquire the Encrypted Tokenisation outlined in the API Introduction
+	As such, it does not require the Encrypted Tokenisation outlined in the API Introduction
 ```
 
 **Examples**
@@ -27,7 +27,7 @@
 
 A Deep Link is a URL parameter that is provided to the login screen to automatically redirect the user to the target page on a successful login.
 
-If the user has a valid active session, they will be redirected to the target page without requiring re-autnntication.
+If the user has a valid active session, they will be redirected to the target page without requiring re-authentication.
 
 
 **Notes for Generating Deep Links**
@@ -46,7 +46,7 @@ To assist in embedding the target program of a Deep Link inside another product,
 
 **Logging Out**
 
-When generating a Deep Link without the TASS or Portal menu structure (`"prod_menu":"N"`), you will be responsible for providing a logout mechinisim for your users.
+When generating a Deep Link without the TASS or Portal menu structure (`"prod_menu":"N"`), you will be responsible for providing a logout mechanism for your users.
 
 A logout can be initiated by redirecting a user to the logout URL. E.g.: 
 
@@ -57,5 +57,5 @@ A logout can be initiated by redirecting a user to the logout URL. E.g.:
 
 **Errors**
 
-Any error encountered during the Deep Link redirect attempt will send the user to the Product Home screen. A corresponding entry with error details will be found the TASS.web exception log.
+Any error encountered during the Deep Link redirect attempt will send the user to the Product Home screen. A corresponding entry with error details will be found in the TASS.web exception log.
 

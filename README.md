@@ -9,6 +9,7 @@
 
   Kiosk 
   * Student Profile
+  * Teacher Parent Teacher Interview
   * Teacher Rollcall
   * Teacher Substitution
   

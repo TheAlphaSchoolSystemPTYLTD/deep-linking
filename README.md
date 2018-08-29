@@ -8,8 +8,8 @@
 **Examples**
 
   Kiosk 
-  * Student Profile
-  * Teacher Parent Teacher Interview
+  * Parent Teacher Interview
+  * Student Profile 
   * Teacher Rollcall
   * Teacher Substitution
   

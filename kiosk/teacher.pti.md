@@ -34,5 +34,5 @@
 * **Deep Link**
 
 	```HTML
-	http://domain.com/kiosk/login.cfm?go={"target":"teacher.pti","pti_num":"#data.pti_num#"}
+	http://domain.com/kiosk/login.cfm?go={"target":"teacher.pti","pti_num":"100"}
 	```

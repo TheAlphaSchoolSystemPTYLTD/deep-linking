@@ -1,4 +1,4 @@
-**teachers.pti**
+**teacher.pti**
 ----
   Redirects to the program Teacher > Parent Teacher Interview (or Teacher > Parent Teacher Interview > Appointment Schedule Screen if PTI Status is not "Review") after a successful user login.
 

@@ -21,8 +21,9 @@
   
   TASS.web
   * Purchasing - Purchase Orders
+  * Student Attendance
   * Student Profile
-
+  
 
 **What is a Deep Link?**
 

@@ -12,6 +12,7 @@
   * Student Profile 
   * Teacher Rollcall
   * Teacher Substitution
+  * Leave Applications
   
   Parent Lounge
   * Curricular Activities

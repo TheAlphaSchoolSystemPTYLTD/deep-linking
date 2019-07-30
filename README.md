@@ -13,12 +13,16 @@
   * Teacher Rollcall
   * Teacher Substitution
   * Leave Applications
+  * Calendar Attachment
   
   Parent Lounge
   * Curricular Activities
   * School Fees
   * Tours Attachment
   * Tours Excursions
+  
+  Student Cafe
+  * Calendar Attachment
   
   TASS.web
   * Purchasing - Purchase Orders

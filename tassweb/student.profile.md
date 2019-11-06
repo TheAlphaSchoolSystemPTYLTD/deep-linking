@@ -2,6 +2,10 @@
 ----
   Redirects to the target program Student Records > Student Information > Students > Student Profile after a successful user login.
 
+* **Version History:**
+
+    TASS v48.0 - Method Added
+
 * **Version:**
 
   	`2`

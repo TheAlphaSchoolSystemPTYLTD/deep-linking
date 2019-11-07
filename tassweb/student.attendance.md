@@ -37,5 +37,5 @@
 * **Deep Link**
 
 	```HTML
-	http://domain.com/kiosk/login.cfm?go={"target":"student.attendance","studcode":"00001","keynum":"100"}
+	http://domain.com/tassweb/login.cfm?go={"target":"student.attendance","studcode":"00001","keynum":"100"}
 	```

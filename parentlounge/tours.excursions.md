@@ -18,10 +18,11 @@
 
 	   `target [string]` - The target program to be redirected to.
 	   
-*  ** Optional Parameters:**
+*  ** Conditional Parameters:**
 
+	If either studcode or prodcode parameters are provided, they must both must be used.
 	   `studcode [string]` - The Student Code.
-
+	  	and
 	   `tour_num [string]` - The Tour Number.
 
 * **Sample Parameters:**

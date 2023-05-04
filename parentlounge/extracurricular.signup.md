@@ -27,5 +27,5 @@
 * **Deep Link**
 
 	```HTML
-	http://domain.com/parentlounge/login.cfm?go={"target":"extracurricular.signup"}
+	http://domain.com/parentlounge/index.cfm?go={"target":"extracurricular.signup"}
 	```

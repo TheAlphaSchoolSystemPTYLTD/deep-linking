@@ -1,6 +1,6 @@
 **extracurricular.signup**
 ----
-  Redirects to the target program Make Extra Curricular > Sign up Now and Excursions after a successful user login.
+  New deep link for Extra Curricular Sign Up. This will direct parents to all available extracurricular activities for them to sign up to.
 
 * **Version:**
 

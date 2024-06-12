@@ -36,5 +36,5 @@
 * **Deep Link**
 
 	```HTML
-	http://domain.com/parentlounge/login.cfm?go={"target":"address.details","prod_menu":"Y"} DONE
+	http://domain.com/parentlounge/login.cfm?go={"target":"address.details","prod_menu":"Y"}
 	```

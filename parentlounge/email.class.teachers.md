@@ -2,9 +2,9 @@
 ----
   Redirects to the Parent Lounge > Student Details > Email Class Teachers page after a successful user login.
 
-* **Version History:**
+**Version History:**
 
-   	 `TASS v59.07 - Method Added`
+   	 TASS v59.07 - Method Added
 
 * **Version:**
 

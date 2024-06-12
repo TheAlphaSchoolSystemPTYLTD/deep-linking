@@ -12,7 +12,7 @@
 
 * **Permission Required:**
 
-  	`Parent Lounge -> Address Details`
+  	`Parent Lounge -> Parent Details -> Address Details`
 
 * **Method:**
 

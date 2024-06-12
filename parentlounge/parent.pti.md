@@ -38,5 +38,5 @@
 * **Deep Link**
 
 	```HTML
-	http://domain.com/parentlounge/login.cfm?go={"target":"parent.pti","stud_code":"20081","pti_num":51,"prod_menu":"N"}
+	http://domain.com/parentlounge/login.cfm?go={"target":"parent.pti","pti_num":51,"prod_menu":"N"}
 	```

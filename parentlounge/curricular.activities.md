@@ -4,7 +4,7 @@
 
 **Version History:**
 
-	`TASS v59.07 - Made studcode and activity_assign_id optional parameters.`
+	TASS v59.07 - Made studcode and activity_assign_id optional parameters.
 
 * **Version:**
 

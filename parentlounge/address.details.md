@@ -24,7 +24,7 @@
 
 *  **Optional Params:***
 
-    `prod_menu [char]` - Y/N falg to show/hide the menu.
+    `prod_menu [char]` - Y/N flag to show/hide the menu.
     
 * **Sample Parameters:**
 

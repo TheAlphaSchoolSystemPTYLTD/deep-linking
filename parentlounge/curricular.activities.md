@@ -2,9 +2,9 @@
 ----
   Redirects to the target program Student Details > Curricular Activities after a successful user login.
 
-**Version History:**
+* **Version History:**
 
-	TASS v59.07 - Made studcode and activity_assign_id optional parameters.
+	`TASS v59.07 - Made studcode and activity_assign_id optional parameters.`
 
 * **Version:**
 

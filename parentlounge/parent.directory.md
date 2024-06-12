@@ -1,6 +1,6 @@
 **parent.directory**
 ----
-  Redirects to the Parent Lounge Parent Teacher Interview page that matches the pti_num after a successful user login.
+  Redirects to the Parent Lounge > Parent Details > Parent Directory page after a successful user login.
 
 * **Version History:**
 

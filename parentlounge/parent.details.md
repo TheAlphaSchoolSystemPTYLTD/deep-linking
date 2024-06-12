@@ -12,7 +12,7 @@
 
 * **Permission Required:**
 
-  	`Parent Lounge > Parent Details`
+  	`Parent Lounge -> Parent Detials ->  Parent Details`
 
 * **Method:**
 

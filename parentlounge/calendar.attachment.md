@@ -12,7 +12,7 @@
 
 * **Permission Required:**
 
-  	Parent Portal > Calendar Events
+  	`Parent Portal > Calendar Events`
 
 * **Method:**
 

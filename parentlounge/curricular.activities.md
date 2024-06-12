@@ -2,6 +2,10 @@
 ----
   Redirects to the target program Student Details > Curricular Activities after a successful user login.
 
+**Version History:**
+
+	`TASS v59.07 - Made studcode and activity_assign_id optional parameters.`
+
 * **Version:**
 
   	`2`
@@ -17,7 +21,9 @@
 *  **Params Required:**
 
 	   `target [string]` - The target program to be redirected to.
-
+   
+*  **Optional Paramaters:**
+  
 	   `studcode [string]` - The Student Code.
 
 	   `activity_assign_id [string]` - The UUID for this student and activity.

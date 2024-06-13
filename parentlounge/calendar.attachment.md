@@ -4,7 +4,7 @@
 
 * **Version History:**
 
-    TASS v51.X - Method Added
+    `TASS v51.X - Method Added`
 
 * **Version:**
 
@@ -12,7 +12,7 @@
 
 * **Permission Required:**
 
-  	Parent Portal > Calendar Events
+  	`Parent Portal > Calendar Events`
 
 * **Method:**
 

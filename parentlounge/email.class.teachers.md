@@ -1,5 +1,6 @@
 **email.class.teachers**
 ----
+
   Redirects to the Parent Lounge > Student Details > Email Class Teachers page after a successful user login.
 
 * **Version History:**
@@ -14,6 +15,7 @@
 
   	`Parent Lounge > Student Details > Email Class Teachers`
 
+
 * **Method:**
 
   	`GET`
@@ -21,6 +23,7 @@
 *  **Params Required:**
 
 	  `target [string]` - The target program to be redirected to.
+
 
 *  **Optional Params:***
 
@@ -36,5 +39,7 @@
 * **Deep Link**
 
 	```HTML
-	http://domain.com/parentlounge/login.cfm?go={"target":"email.class.teachers","prod_menu":"N"}
+
+	http://domain.com/parentlounge/login.cfm?go={"target":"email.class.teachers","prod_menu":"Y"}
+
 	```

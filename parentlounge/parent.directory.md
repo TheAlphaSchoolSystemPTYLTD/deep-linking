@@ -1,5 +1,6 @@
 **parent.directory**
 ----
+
   Redirects to the Parent Lounge > Parent Details > Parent Directory page after a successful user login.
 
 * **Version History:**
@@ -14,13 +15,16 @@
 
   	`Parent Lounge > Parent Details > Parent Directory`
 
+
 * **Method:**
 
   	`GET`
   
 *  **Params Required:**
 
+
 	  `target [string]` - The target program to be redirected to.
+
 
 *  **Optional Params:***
 
@@ -36,5 +40,7 @@
 * **Deep Link**
 
 	```HTML
+
 	http://domain.com/parentlounge/login.cfm?go={"target":"parent.directory","prod_menu":"N"}
+
 	```

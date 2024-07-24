@@ -1,10 +1,11 @@
 **parent.directory**
 ----
-  Redirects to the Parent Lounge - Parent Directory page after a successful user login.
+
+  Redirects to the Parent Lounge > Parent Details > Parent Directory page after a successful user login.
 
 * **Version History:**
 
-    TASS v59.07 - Method Added
+   	`TASS v59.07 - Method Added`
 
 * **Version:**
 
@@ -12,7 +13,8 @@
 
 * **Permission Required:**
 
-  	`Parent Lounge -> Parent Details`
+  	`Parent Lounge > Parent Details > Parent Directory`
+
 
 * **Method:**
 
@@ -20,7 +22,9 @@
   
 *  **Params Required:**
 
-	   `target [string]` - The target program to be redirected to.
+
+	  `target [string]` - The target program to be redirected to.
+
 
 *  **Optional Params:***
 
@@ -36,5 +40,7 @@
 * **Deep Link**
 
 	```HTML
-	http://domain.com/parentlounge/login.cfm?go={"target":"parent.directory","prod_menu":"Y"}
+
+	http://domain.com/parentlounge/login.cfm?go={"target":"parent.directory","prod_menu":"N"}
+
 	```

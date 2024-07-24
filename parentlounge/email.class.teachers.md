@@ -1,10 +1,11 @@
 **email.class.teachers**
 ----
-  Redirects to the Parent Lounge - Email Class Teachers page after a successful user login.
+
+  Redirects to the Parent Lounge > Student Details > Email Class Teachers page after a successful user login.
 
 * **Version History:**
 
-    TASS v59.07 - Method Added
+   	`TASS v59.07 - Method Added`
 
 * **Version:**
 
@@ -12,7 +13,8 @@
 
 * **Permission Required:**
 
-  	`Parent Lounge -> Student Details -> Email Class Teachers`
+  	`Parent Lounge > Student Details > Email Class Teachers`
+
 
 * **Method:**
 
@@ -20,7 +22,8 @@
   
 *  **Params Required:**
 
-	   `target [string]` - The target program to be redirected to.
+	  `target [string]` - The target program to be redirected to.
+
 
 *  **Optional Params:***
 
@@ -36,5 +39,7 @@
 * **Deep Link**
 
 	```HTML
+
 	http://domain.com/parentlounge/login.cfm?go={"target":"email.class.teachers","prod_menu":"Y"}
+
 	```
